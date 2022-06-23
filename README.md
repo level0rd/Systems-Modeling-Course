@@ -1,2 +1,2 @@
 # Systems Modeling
-Assignments made within the course Systems Modeling.
+Systems Modeling assignments.
