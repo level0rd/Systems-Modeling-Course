@@ -1,1 +1,1 @@
-# Systems Modeling Course
+# Systems modeling course
